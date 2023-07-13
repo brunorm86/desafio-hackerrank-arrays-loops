@@ -12,7 +12,7 @@ function solucao(disparos) {
     }
 
     if (disparosCerteiros.length >= 3) {
-        console.log(disparosCerteiros);
+        console.log(disparosCerteiros.length);
     } else {
         console.log("ELIMINADO");
     }
